@@ -4,5 +4,8 @@
 
 # 경기도
 
-## push dustmq wnd
+## push 연습 코드
 - 이 코드는 추가한 코드입니다.
+
+## pull 연습
+- pull 연습 한 번 더
